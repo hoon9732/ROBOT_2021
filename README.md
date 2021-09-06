@@ -1,4 +1,4 @@
-﻿#### RCNN_V2(이제 사용되지 않음) 관련 설명(영문) ####
+﻿## RCNN_V2(이제 사용되지 않음) 관련 설명(영문) ##
 
 ## Introduction
 
@@ -307,9 +307,9 @@ You can also delete the corresponding folder in “data_mask”. You will then h
 
 In order to add a customized logo to an object, replace the image named after the object in the “logo” folder (black is used as a transparency color) then click on update in the Settings menu or restart the program. 
 
-#### YOLOV5를 이용한 커피캡슐 인식을 위해 사용된 자료 및 코드의 모읍집 ####
+## YOLOV5를 이용한 커피캡슐 인식을 위해 사용된 자료 및 코드의 모읍집 ##
 
-## 사용 방법 ##
+#### 사용 방법 ####
 
 1. 전체 repo를 적당한 폴더(ex: C:\yolov5_base)에 압축을 풀거나 git pull 한다.
 
