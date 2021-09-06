@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5</folder>
+	<filename>f_190.jpg</filename>
+	<path>C:\Users\hoon9\Documents\SNU\AI_Internship\opencv\images\capsules_frame_sparse\5\f_190.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>479</width>
+		<height>728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>capsule_5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>217</ymin>
+			<xmax>337</xmax>
+			<ymax>445</ymax>
+		</bndbox>
+	</object>
+</annotation>

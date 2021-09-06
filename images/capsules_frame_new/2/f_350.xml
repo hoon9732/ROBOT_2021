@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>f_350.jpg</filename>
+	<path>C:\Users\hoon9\Documents\SNU\AI_Internship\opencv\images\capsules_frame_sparse\2\f_350.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>479</width>
+		<height>728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>capsule_2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>311</ymin>
+			<xmax>335</xmax>
+			<ymax>495</ymax>
+		</bndbox>
+	</object>
+</annotation>
