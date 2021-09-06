@@ -1,4 +1,6 @@
-﻿## Introduction
+﻿#### RCNN_V2(이제 사용되지 않음) 관련 설명(영문) ####
+
+## Introduction
 
 This demonstrator uses Tensorflow, an open-source machine learning tool developed by Google, in order to allow the Niryo One to recognize multiple objects on its workspace, thanks to its Vision Set, artificial intelligence, image processing and machine learning.
 
@@ -304,3 +306,19 @@ You can also delete the corresponding folder in “data_mask”. You will then h
 #### Adding a customized logo to an object:
 
 In order to add a customized logo to an object, replace the image named after the object in the “logo” folder (black is used as a transparency color) then click on update in the Settings menu or restart the program. 
+
+#### YOLOV5를 이용한 커피캡슐 인식을 위해 사용된 자료 및 코드의 모읍집 ####
+
+## 사용 방법 ##
+
+1. 전체 repo를 적당한 폴더(ex: C:\yolov5_base)에 압축을 풀거나 git pull 한다.
+
+2. workspace 폴더는 yolo_v5 모델 학습에 사용된 영상자료 및 기타 자료를 포함한 폴더이며 주요 코드는 전부 yolov5 폴더내에 존재한다.
+
+3. yolov5 폴더 내에 존재하는 .pt 확장자의 파일들이 inference로, 커피 캡슐의 인식률을 결정짓는, 앞서 학습시킨 모델들이다. best.pt, best_1.pt, best_2.pt 순서대로 가장 최신의 inference 파일이며 즉 best_2가 현재 가장 인식률이 높은 모델이다.
+
+4. python 콘솔로 detect.py를 실행시키고 각종 조건을 붙임에 따라 다양한 입력영상, 혹은 저장된 영상, 스트리미된 영상(http, rtmp 등 다양한 소스)으로부터 커피캡슐을 인식하는 작업을 수행한다. 그 인식결과를 출력할 것인지, 저장할 것인지 역시 설정이 가능하다.
+
+5. 4번에서의 detect.py 설정에 관해서느 다음 링크를 참조하면 좋다. https://github.com/ultralytics/yolov5
+
+6. 그 외 직접 이미지를 학습하는 단계부터 진행하고 싶다면 이 google colab 문서를 추천한다. https://drive.google.com/file/d/1hGjFQesZZkaXGGH3DcCaF77REhoyKdRD/view?usp=sharing\
