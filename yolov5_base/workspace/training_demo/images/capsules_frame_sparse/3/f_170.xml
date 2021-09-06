@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3</folder>
+	<filename>f_170.jpg</filename>
+	<path>C:\yolov5_base\workspace\training_demo\images\capsules_frame_sparse\3\f_170.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>851</width>
+		<height>356</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>capsule_3</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>414</xmin>
+			<ymin>1</ymin>
+			<xmax>652</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>

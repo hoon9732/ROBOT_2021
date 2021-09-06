@@ -1,0 +1,26 @@
+<annotation>
+	<folder>10</folder>
+	<filename>10aframe44.jpg</filename>
+	<path>C:\Users\CauldronKAPPA\Desktop\capture0\10\10aframe44.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>capsule_10</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>20</ymin>
+			<xmax>199</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,65 @@
+item {
+    name: "capsule_1",
+    id: 1,
+    display_name: "capsule_1"
+}
+item {
+    name: "capsule_2",
+    id: 2,
+    display_name: "capsule_2"
+}
+item {
+    name: "capsule_3",
+    id: 3,
+    display_name: "capsule_3"
+}
+item {
+    name: "capsule_4",
+    id: 4,
+    display_name: "capsule_4"
+}
+item {
+    name: "capsule_5",
+    id: 5,
+    display_name: "capsule_5"
+}
+item {
+    name: "capsule_6",
+    id: 6,
+    display_name: "capsule_6"
+}
+item {
+    name: "capsule_7",
+    id: 7,
+    display_name: "capsule_7"
+}
+item {
+    name: "capsule_8",
+    id: 8,
+    display_name: "capsule_8"
+}
+item {
+    name: "capsule_9",
+    id: 9,
+    display_name: "capsule_9"
+}
+item {
+    name: "capsule_10",
+    id: 10,
+    display_name: "capsule_10"
+}
+item {
+    name: "capsule_11",
+    id: 11,
+    display_name: "capsule_11"
+}
+item {
+    name: "capsule_12",
+    id: 12,
+    display_name: "capsule_12"
+}
+item {
+    name: "capsule_13",
+    id: 13,
+    display_name: "capsule_13"
+}

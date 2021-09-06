@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5</folder>
+	<filename>f_150.jpg</filename>
+	<path>C:\yolov5_base\workspace\training_demo\images\capsules_frame_sparse\5\f_150.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>851</width>
+		<height>356</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>capsule_5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>447</xmin>
+			<ymin>126</ymin>
+			<xmax>576</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+</annotation>
