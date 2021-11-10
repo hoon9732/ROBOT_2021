@@ -1,8 +1,7 @@
-import cv2
 import os
 import sys
 sys.path.append("C:/Users/hoon9/AppData/Local/Programs/Python/Python38")
-sys.path.append("C:/Users/hoon9/Documents/SNU/AI_Internship/opencv/assets")
+sys.path.append("C:/Users/hoon9/Documents/SNU/AI_Internship/opencv/rcnnv2_base/assets")
 
 import math
 import numpy as np
@@ -12,7 +11,7 @@ import utils
 
 # Communication Configuration
 #robot_ip_address = "192.168.0.3"  # Replace by robot ip address
-robot_ip_address = "169.254.200.200"  # Replace by robot ip address
+robot_ip_address = "192.168.0.3"  # Replace by robot ip address
 workspace = "default_workspace"  # Name of your workspace
 
 # Initial Pose
